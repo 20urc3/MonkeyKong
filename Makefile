@@ -14,7 +14,7 @@ OTHER_FLAGS= -O3 -lm -lrt -std=gnu++17
 SOURCES = main.cpp $(CLASSES_LOCATION)/*.cpp
 
 
-PROGRAM_NAME=testInputs.bin
+PROGRAM_NAME=MonkeyKong.bin
 PROGRAM_DIR=.
 PROGRAM_PATH=$(PROGRAM_DIR)/$(PROGRAM_NAME) 
 
